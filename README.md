@@ -1,2 +1,2 @@
 # repo-exercise
-exercise
+Successful exercise
